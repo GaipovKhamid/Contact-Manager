@@ -1,0 +1,10 @@
+               *****ContactManager Project******
+
+Userlarning kontaktlarini boshqaradigan dastur yasang.
+Bunda user kontakt kiritishi, kiritilgan kontaktlarni korishi,
+ularni ochirishi va ular orasida kontaktlarni qidirish imkoni bolishi kerak.
+
+
+1. Add Contact
+
+2.
